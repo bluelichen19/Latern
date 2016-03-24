@@ -1,0 +1,3 @@
+[submodule "latern"]
+	path = latern
+	url = https://github.com/getlantern/lantern.git
